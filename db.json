@@ -1,16 +1,18 @@
 {
-  "posts":[
+  "players":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "Michael",
+      "gender" : "M"
     }
   ],
-  "comments" : [
+  "games":[
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 0,
+      "plays":[
+        ["A", "B", "C"],
+        ["A", "B", "C"]
+      ]
     }
   ]
 }

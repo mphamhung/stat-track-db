@@ -1,25 +1,9 @@
 {
-  "players":[
+  "players":[],
+  "admin":[
     {
-      "id" : 0,
-      "name": "Michael",
-      "gender" : "M"
-    },
-    {
-      "id" : 0,
-      "name": "Nancy",
-      "gender" : "F"
-    },
-    {
-      "id" : 0,
-      "name": "Marco",
-      "gender" : "M"
-    }
-  ],
-  "games":[
-    {
-      "id" : 0,
-      "plays":[
+      "test" : 1,
+      "test2":[
         ["A", "B", "C"],
         ["A", "B", "C"]
       ]
